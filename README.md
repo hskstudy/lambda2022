@@ -54,6 +54,13 @@ MIT
     $ git merge upstream/main
     ```
 
+
+4. git pull で fetch と merge をいっぺんにやる
+
+    ```
+    $ git pull upstream main
+    ```
+
 ### 4. 開発ブランチを作る。
 
 1. git branch dev
