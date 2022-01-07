@@ -70,6 +70,10 @@ MIT
     Switched to branch 'dev'
     ```
 
+4. git push --set-upstream origin dev
+
+で dev ブランチをgithubにあげる。
+
 
 ### 5. 開発ブランチで Pull request を受け取る。
 ### 5. 開発ブランチから Pull request　を送る。
