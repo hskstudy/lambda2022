@@ -12,18 +12,12 @@ $ git branch -a
 * main
   remotes/origin/HEAD -> origin/main
   remotes/origin/main
+  remotes/upstream/main
 ```
 
-まず git fetch upstream
+- git fetch で差分を取得し git merge upstream/main で current branch へ merge させます。
 
 ```
 $ git fetch upstream
-```
-
-次に git merge
-
-git fetch で取得した差分を current branch へ merge させます。
-
-```
 $ git merge upstream/main
 ```
