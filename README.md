@@ -17,14 +17,14 @@ MIT
     git clone git://github.com/hsk/lambda2022.git
     ```
 
-### 2. pull request する。
+### 2. Pull request する。
 
 1. 変更を加え commit し、push します。
-2. github上から pull request を送ります。
+2. github上から `Pull requests` -> `New pull request` -> `Create pull request` とボタンを押して Pull request を送ります。
 
-### 3. pull request をマージする。
+### 3. Pull request をマージする。
 
-1. pullrequest のページを開きます。
+1. `Pull Request` のページを開きます。
 2. merge するボタンを押します。
 3. confirm ボタンを押します。
 4. git pull でマージ結果を取得します。
