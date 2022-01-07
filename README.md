@@ -53,3 +53,24 @@ MIT
     $ git fetch upstream
     $ git merge upstream/main
     ```
+
+### 4. 開発ブランチを作る。
+
+1. git branch dev
+2. git branch で確認
+
+    ```
+      dev
+    * main
+    ```
+3. ブランチを変更する。
+
+    ```
+    $ git checkout dev
+    Switched to branch 'dev'
+    ```
+
+
+### 5. 開発ブランチで Pull request を受け取る。
+### 5. 開発ブランチから Pull request　を送る。
+
