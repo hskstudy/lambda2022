@@ -20,7 +20,7 @@ MIT
 ### 2. Pull request する。
 
 1. 変更を加え commit し、push します。
-2. github上から `Pull requests` -> `New pull request` -> `Create pull request` とボタンを押して Pull request を送ります。
+2. github上から `Pull requests` -> `New pull request` -> `Create pull request` -> `Create pull request` とボタンを押して Pull request を送ります。
 
 ### 3. Pull request をマージする。
 
