@@ -31,7 +31,7 @@ MIT
 
 ### 4. fork 元に追従する。
 
-1. git remote add upstream で fork元を upstream として追加します。
+1. fork元を upstream として追加します。(1回だけやれば良い)
 
     ```
     git remote add upstream git://github.com/hskstudy/lambda2022.git
