@@ -81,5 +81,5 @@ MIT
 ### 5. 開発ブランチで Pull request を受け取る。
 ### 6. 開発ブランチから Pull request　を送る。
 
-開発
+開発2
 
