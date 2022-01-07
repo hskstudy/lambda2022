@@ -24,9 +24,9 @@ MIT
 
 ### 3. Pull request をマージする。
 
-1. `Pull Request` のページを開きます。
-2. merge するボタンを押します。
-3. confirm ボタンを押します。
+1. `Pull Request` のページを開き、該当する pull requestのページを開きます。
+2. 確認して問題なければ `Merge pull request` ボタンを押します。
+3. `Confirm merge` ボタンを押します。
 4. git pull でマージ結果を取得します。
 
 ### 4. fork 元に追従する。
