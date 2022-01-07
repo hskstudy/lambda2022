@@ -14,6 +14,13 @@
 1. 変更を加え commit し、push します。
 2. github上から pull request を送ります。
 
+## 3. pull request をマージする。
+
+1. pullrequest のページを開きます。
+2. merge するボタンを押します。
+3. confirm ボタンを押します。
+4. git pull でマージ結果を取得します。
+
 ## 4. fork 元に追従する。
 
 1. git remote add upstream で fork元を upstream として追加します。
